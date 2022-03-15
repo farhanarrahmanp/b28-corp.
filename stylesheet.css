@@ -333,16 +333,51 @@ p#fixedbutton {
 
 /* footer (Gigih Ridho) */
 
-footer img {
-  width: 125px;
+.container{
+  margin:auto;
+  max-width:1170px;
+}
+.row{
+  display:flex;
+  flex-wrap:wrap;
+}
+ul{
+  list-style:none;
+}
+.footer{
+  background-color:#f5cb5c;
+  padding: 70px 0;
 }
 
-footer p {
-  color: #b3aeb5;
-  font-size: 12px;
+.footer-col{
+  width: 30%;
+  padding: 0 15px;
 }
-
-footer {
-  padding-top: 30px;
-  padding-bottom: 20px;
+.footer-col h4{
+  font-size: 18px;
+  color: #red;
+  text-transform: capitalize;
+  margin-bottom:30px;
+  font-weight:500;
+  position:relative;
+}
+.footer-col h4::before{
+  content:'';
+  position:absolute;
+  left:0;
+  bottom:-10px;
+  b ackground-color:#e91e63;
+  height:3px;
+  box-sizing:border-box;
+  width:50px;
+}
+.footer-col ul li{
+  font-size : 16px;
+  text-transform: capitalize;
+  color:#fff;
+  text-decoration:none;
+  font-weight:300;
+  color:#bbbbbb;
+  display:block;
+  transition: all 0.3s ease;
 }
