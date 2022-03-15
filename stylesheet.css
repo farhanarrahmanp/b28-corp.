@@ -160,7 +160,7 @@ header {
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://c4.wallpaperflare.com/wallpaper/275/574/338/mercedes-benz-slk-class-r172-yellow-car-ducati-motorcycle-wallpaper-preview.jpg);
-  background-size: center;
+  background-size: contain;
   color: #ebeddf;
   text-align: center;
   opacity: 0.8;
