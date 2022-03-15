@@ -159,8 +159,8 @@ header {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(3417022.jpg);
-  background-size: center;
+  background-image: url(https://i.ibb.co/gDhkq4K/3417022.jpg);
+  background-size: contain;
   color: #ebeddf;
   text-align: center;
   opacity: 0.8;
