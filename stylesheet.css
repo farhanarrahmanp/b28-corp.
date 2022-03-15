@@ -227,10 +227,10 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 90%;
+  top: 85%;
   width: 100%;
   font-size:28px;
-  color: #242423;
+  color: #e8edff;
 }
 
 .text-contents {
@@ -240,7 +240,6 @@ header {
   font-size: 17px;
   color: #333533;
 }
-
 
 
 /* main (contact/message wrapper) (Farhan Arrahman) */
