@@ -135,8 +135,8 @@ header {
 }
 
 .signintwitter img{
-  width:32px;
-  height:32px;
+  width:80px;
+  height:80px;
   padding-top:17px;
   padding-bottom:12px;
 }
@@ -146,8 +146,8 @@ header {
 }
 
 .signinfb img{
-  width:70px;
-  height:70px;
+  width:80px;
+  height:80px;
   padding-top:17px;
   padding-right:10px;
   padding-bottom:12px;
@@ -161,7 +161,7 @@ header {
   padding: 180px 0 100px 0;
   background-image: url(https://c4.wallpaperflare.com/wallpaper/275/574/338/mercedes-benz-slk-class-r172-yellow-car-ducati-motorcycle-wallpaper-preview.jpg);
   height:215px;
-  background-size: contain;
+  background-size: center;
   color: #ebeddf;
   text-align: center;
   opacity: 0.8;
