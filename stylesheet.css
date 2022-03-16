@@ -160,10 +160,9 @@ header {
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://i.ibb.co/gDhkq4K/3417022.jpg);
-  background-size: contain;
-  color: #ebeddf;
+  background-size: cover;
   text-align: center;
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .top-wrapper h1 {
