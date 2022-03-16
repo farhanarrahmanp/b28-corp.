@@ -225,6 +225,10 @@ header {
   position: relative;
 }
 
+.lesson-icon img {
+  width: 50%;
+}
+
 .lesson-icon p {
   position: absolute;
   top: 85%;
